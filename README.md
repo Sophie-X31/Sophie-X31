@@ -8,4 +8,4 @@
 ⚙️ Skills: Python, PostgreSQL, C, Java, R  
 
 🌱 Currently learning more about **large-scale ML systems** and **modern regression models**.  
-📫 Reach me on [LinkedIn](linkedin.com/in/sophie-xu-661400242) or here on GitHub!  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sophie-xu-661400242) or here on GitHub!  
